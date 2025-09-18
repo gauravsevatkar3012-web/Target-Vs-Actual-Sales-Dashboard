@@ -1,0 +1,11 @@
+Product Id,Product Name,Product Category,Cost Price,Sale Price
+1,Prod A,Standard,60,100
+2,Prod B,Standard,80,135
+3,Prod C,Standard,40,100
+4,Prod D,Standard,50,95
+5,Prod E,Standard,75,145
+6,Prod F,Elite,100,190
+7,Prod G,Elite,95,165
+8,Prod H,Premium,110,220
+9,Prod I,Premium,125,230
+10,Prod J,Premium,150,280
