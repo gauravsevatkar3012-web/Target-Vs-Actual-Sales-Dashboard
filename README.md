@@ -5,29 +5,29 @@
 ![Excel](https://img.shields.io/badge/Tool-Excel-green)  
 ![DAX](https://img.shields.io/badge/Language-DAX-yellow)  
 
-An *interactive Power BI dashboard* designed to analyze the gap between *Target vs Actual Sales, highlighting **profitability, category performance, discount impact, and regional insights*.  
-This project demonstrates how to use *data analysis, DAX measures, and interactive Power BI dashboards to track sales targets vs actuals, evaluate profitability, and deliver business-ready insights*.  
+An **interactive Power BI dashboard** designed to analyze the gap between **Target vs Actual Sales, highlighting profitability, category performance, discount impact, and regional insights**.  
+This project demonstrates how to use **data analysis, DAX measures, and interactive Power BI dashboards to track sales targets vs actuals, evaluate profitability, and deliver business-ready insights**.  
 
 ---
 
 ## 🚀 Project Overview
-Sales targets often differ from actual performance, making it critical for businesses to track *revenue variance, profit margins, and discount effectiveness*.  
+Sales targets often differ from actual performance, making it critical for businesses to track **revenue variance, profit margins, and discount effectiveness**.  
 
 This dashboard provides:  
-- *Revenue & Profit KPIs* (Target vs Actual, YoY Growth %)  
-- *Category, Product & Country Performance*  
-- *Discount Effectiveness Analysis*  
-- *Drill-down Product Level Insights*
+- **Revenue & Profit KPIs** (Target vs Actual, YoY Growth %)  
+- **Category, Product & Country Performance**  
+- **Discount Effectiveness Analysis**  
+- **Drill-down Product Level Insights**
 
-  I created *15+ custom DAX measures* to calculate KPIs such as revenue variance, YoY growth, profit margin, and discount impact, ensuring accurate and dynamic reporting
+  I created **15+ custom DAX measures** to calculate KPIs such as **revenue variance, YoY growth, profit margin, and discount impact, ensuring accurate and dynamic reporting.**
 
 ---
 
 ## 🔑 Key Features
-- 📈 *Summary Dashboard* – Actual Vs Target Revenue, Revenue trends (2017–2020), YoY growth, KPI performance  
-- 📊 *Overview Dashboard* –  Year,Category & Country level breakdowns  
-- 💰 *Discount Effectiveness* – Impact of discounting on sales and margins  
-- 📑 *Detailed Analysis* – Product-level cost, sales, discounts, and profit margin  
+- 📈 **Summary Dashboard** – Actual Vs Target Revenue, Revenue trends (2017–2020), YoY growth, KPI performance  
+- 📊 **Overview Dashboard** –  Year,Category & Country level breakdowns  
+- 💰 **Discount Effectiveness** – Impact of discounting on sales and margins  
+- 📑 **Detailed Analysis** – Product-level cost, sales, discounts, and profit margin  
 
 ---
 
