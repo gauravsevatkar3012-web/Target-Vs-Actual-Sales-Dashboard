@@ -32,23 +32,23 @@ This dashboard provides:
 ---
 
 ## 📊 Key Metrics
-- *Actual Revenue: **50.45M*  
-- *Target Revenue: **57M*  
-- *Revenue Variance: **-6.55M*  
-- *Profit Margin: **38.51%*  
-- *Discount Impact: **7.15M*  
+- *Actual Revenue: **50.45M**  
+- *Target Revenue: **57M**
+- *Revenue Variance: **-6.55M**
+- *Profit Margin: **38.51%**
+- *Discount Impact: **7.15M**  
 
 ---
 
 ## 🔍 Actionable Insights
-1. *Revenue Shortfall: Despite 33.87% YoY growth, sales missed the target by **6.55M* (11.5% gap).  
-2. *Category Analysis*:  
-   - *Premium* outperformed (21M vs 17M) → Expansion opportunity.  
-   - *Standard* lagged heavily (14M vs 29M) → Needs targeted strategy.  
-   - *Elite* underperformed moderately (11M vs 16M).  
-3. *Profitability: Margins stable at **~38.5%*, but slightly declining due to discounts.  
-4. *Discounts: Drove **7.15M in sales impact* but pressured profitability → optimize discounting strategy.  
-5. *Regional Performance: US is the key driver (18M revenue, 7M profit). Other regions (India, UK) need **growth initiatives*.  
+1. **Revenue Shortfall**: Despite **33.87%** YoY growth, sales missed the target by **6.55M** (11.5% gap).  
+2. **Category Analysis**:  
+   - **Premium** outperformed (21M vs 17M) → Expansion opportunity.  
+   - **Standard** lagged heavily (14M vs 29M) → Needs targeted strategy.  
+   - **Elite** underperformed moderately (11M vs 16M).  
+3. **Profitability**: Margins stable at **~38.5%**, but slightly declining due to discounts.  
+4. **Discounts**: Drove **7.15M**in sales impact* but pressured profitability → optimize discounting strategy.  
+5. **Regional Performance**: US is the key driver (18M revenue, 7M profit). Other regions (India, UK) need **growth initiatives**.  
 
 ---
 
