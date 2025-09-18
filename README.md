@@ -6,7 +6,7 @@
 ![DAX](https://img.shields.io/badge/Language-DAX-yellow)  
 
 An *interactive Power BI dashboard* designed to analyze the gap between *Target vs Actual Sales, highlighting **profitability, category performance, discount impact, and regional insights*.  
-This project demonstrates how to use data analysis, DAX measures, and interactive Power BI dashboards to track sales targets vs actuals, evaluate profitability, and deliver business-ready insights*.  
+This project demonstrates how to use *data analysis, DAX measures, and interactive Power BI dashboards to track sales targets vs actuals, evaluate profitability, and deliver business-ready insights*.  
 
 ---
 
