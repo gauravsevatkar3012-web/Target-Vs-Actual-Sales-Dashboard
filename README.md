@@ -55,17 +55,20 @@ This dashboard provides:
 ## 📸 Dashboard Preview
 (Screenshots from Power BI)  
 
+### 🔹 Home Page
+![Home Dashboard](https://github.com/gauravsevatkar3012-web/Target-Vs-Actual-Sales-Dashboard/blob/398b8442881caf56b4cf58593fdd40c606daf448/Home_Page.png)  
+
 ### 🔹 Summary View  
-![Summary Dashboard](screenshots/Summary.png)  
+![Summary Dashboard](https://github.com/gauravsevatkar3012-web/Target-Vs-Actual-Sales-Dashboard/blob/398b8442881caf56b4cf58593fdd40c606daf448/Summary_Page.png) 
 
 ### 🔹 Overview  
-![Overview Dashboard](screenshots/Overview.png)  
+![Overview Dashboard](https://github.com/gauravsevatkar3012-web/Target-Vs-Actual-Sales-Dashboard/blob/398b8442881caf56b4cf58593fdd40c606daf448/Overview_Page.png)
 
 ### 🔹 Discount Effectiveness  
-![Discount Effectiveness](screenshots/Discount_Effectiveness.png)  
+![Discount Effectiveness](https://github.com/gauravsevatkar3012-web/Target-Vs-Actual-Sales-Dashboard/blob/398b8442881caf56b4cf58593fdd40c606daf448/Discount_Effectivness.png) 
 
 ### 🔹 Detailed Analysis  
-![Detailed Analysis](screenshots/Detailed_Analysis.png)  
+![Detailed Analysis](https://github.com/gauravsevatkar3012-web/Target-Vs-Actual-Sales-Dashboard/blob/398b8442881caf56b4cf58593fdd40c606daf448/Detailed_Analysis.png)
 
 ---
 
